@@ -153,9 +153,8 @@ Best Fit line plot
 
 
 ### New Sample Data Prediction
+<img width="408" height="62" alt="Screenshot 2025-09-23 093643" src="https://github.com/user-attachments/assets/47af3e9d-31fb-438b-b8bd-c8a058c1c79d" />
 
-
-<img width="722" height="63" alt="image" src="https://github.com/user-attachments/assets/10815000-cf91-4786-8bc4-d4e711255fb1" />
 
 
 ## RESULT
